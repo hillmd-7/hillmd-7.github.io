@@ -24,6 +24,7 @@ h1 {
     font-size: 3.2rem;
     line-height: 1;
     color: orange;
+    font-family: cursive
 }
 
 h2 {
@@ -34,6 +35,7 @@ p {
     font-size: 1.4rem;
     line-height: 2rem;
     color: purple;
+    font-family: "Times New Roman"
 }
 
 .demo_font_arial{
