@@ -23,7 +23,7 @@ h1 {
     margin-bottom: 1.5rem;
     font-size: 3.2rem;
     line-height: 1;
-    font-color: orange;
+    color: orange;
 }
 
 h2 {
@@ -33,7 +33,7 @@ h2 {
 p {
     font-size: 1.4rem;
     line-height: 2rem;
-    font-color: purple;
+    color: purple;
 }
 
 .demo_font_arial{
